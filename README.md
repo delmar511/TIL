@@ -1,5 +1,7 @@
 TIL
 
+Flexbox는 가로 또는 세로 단일 방향(1차원)으로 요소를 배치하며 flex-direction, justify-content, align-items 등을 통해 정렬과 여백을 제어함.  CSS Grid는 가로와 세로 격자(2차원) 형태로 요소를 배치하며 grid-template-columns, gap, grid-column 등을 활용해 바둑판 형태의 레이아웃을 구현함.  두 방식 모두 flex-grow나 fr 단위 등을 활용하여 다양한 화면 크기에 유연하게 반응하는 레이아웃을 제공함.  
+
 26/9/15
 -시멘틱 태그는 태그 자체에 의미를 담아 웹 문서 구조를 명확히 정의함으로써 검색엔진 최적화(SEO)와 웹 접근성을 향상시킴.
 -<header>, <nav>, <main>, <article>, <footer> 등을 활용해 레이아웃을 구조화하며, 단순 스타일링 목적으로는 비시멘틱 태그인 <div>를 사용함.
