@@ -1,5 +1,11 @@
 TIL
 
+26/9/18
+-Flexbox는 요소를 가로 또는 세로 단일 방향(1차원)으로 유연하게 배치하며, flex-direction, justify-content, align-items 등의 속성으로 정렬과 여백을 제어합니다.
+-CSS Grid는 가로(행)와 세로(열) 격자 모양(2차원)으로 요소를 배치하며, grid-template-columns, gap, grid-column 등을 활용해 바둑판 형태의 레이아웃을 구현합니다.
+-두 레이아웃 방식 모두 flex-grow나 fr 단위 등을 활용하여 화면 크기 변화에 유연하게 반응하는 반응형 웹 화면을 작성할 수 있습니다.
+
+26/9/17
 Flexbox는 가로 또는 세로 단일 방향(1차원)으로 요소를 배치하며 flex-direction, justify-content, align-items 등을 통해 정렬과 여백을 제어함.  CSS Grid는 가로와 세로 격자(2차원) 형태로 요소를 배치하며 grid-template-columns, gap, grid-column 등을 활용해 바둑판 형태의 레이아웃을 구현함.  두 방식 모두 flex-grow나 fr 단위 등을 활용하여 다양한 화면 크기에 유연하게 반응하는 레이아웃을 제공함.  
 
 26/9/15
